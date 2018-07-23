@@ -94,9 +94,8 @@ footer{
 }
 
 #footer{
-    position: absolute;
-    bottom: 0;
-    left: 45%;
+    inline-size: 100px;
+    margin-left: 45%;
 }
 
 #hr{
